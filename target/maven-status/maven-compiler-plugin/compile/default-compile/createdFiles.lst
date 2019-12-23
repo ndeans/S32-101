@@ -1,0 +1,8 @@
+us\deans\springstudy\support\DiClientAnnotated.class
+us\deans\springstudy\base\BaseOperation.class
+us\deans\springstudy\operations\OpHelloDI.class
+us\deans\springstudy\driver\Application.class
+us\deans\springstudy\support\GreetingService.class
+us\deans\springstudy\support\IGreetingService.class
+us\deans\springstudy\operations\OpAverages.class
+us\deans\springstudy\support\DiClientRegistered.class
